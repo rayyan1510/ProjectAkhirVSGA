@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="colorPrimary">#2e66bf</color>
+    <color name="colorPrimaryVariant">#244f96</color> <!-- A darker variant of #2e66bf -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- White text on primary color -->
+
+    <!-- Define secondary colors -->
+    <color name="colorSecondary">#03DAC5</color>
+    <color name="colorSecondaryVariant">#018786</color>
+    <color name="colorOnSecondary">#000000</color>
+
+    <!-- Background and text colors -->
+    <color name="backgroundLight">#FFFFFF</color>
+    <color name="backgroundDark">#121212</color>
+    <color name="textPrimary">#000000</color>
+    <color name="textSecondary">#757575</color>
+    <color name="divider">#BDBDBD</color>
+</resources>
+
